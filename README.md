@@ -1,2 +1,2 @@
 # sch_assignment
-학
+학교
